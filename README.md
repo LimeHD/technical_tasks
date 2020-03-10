@@ -40,6 +40,8 @@
 ### Исходные pleylist’ы
 
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+
 https://hls-solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
+
 https://strm.yandex.ru/kal/volgograd1/volgograd10.m3u8
 
